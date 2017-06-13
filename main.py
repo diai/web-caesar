@@ -33,9 +33,6 @@ form = """
             <input type="submit" value="Submit Query">
             <textarea name="text" form="usrform">{0}</textarea>
         </form>
-
-        
-        <!-- create your form here -->
     </body>
 </html>
 """
